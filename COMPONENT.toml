@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-firstboot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-firstboot component"
+description = "systemd firstboot"
 upstream = []
 
 [contract]
